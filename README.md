@@ -7,8 +7,8 @@ Good for generating keys for React components or Vue components.
 ## Installation
 
 1. `npm install @tyler-jm/bbkey`
-* in the .js file: `import bbkey from '@tyler-jm/bbkey';`
-* or: `const bbkey = require('@tyler-jm/bbkey;`
+* in the .js file: `import bbkey from '@tyler-jm/bbkey/lib';`
+* or: `const bbkey = require('@tyler-jm/bbkey/lib;`
 
 ## Usage
 
