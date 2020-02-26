@@ -1,0 +1,29 @@
+{
+  "name": "@tyler-jm/bbkey",
+  "version": "1.0.0",
+  "description": "a bare-bones api to generate random strings. Useful for keys in React or Vue components",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TYLER-JM/bbkey.git"
+  },
+  "keywords": [
+    "key",
+    "id",
+    "unique"
+  ],
+  "author": {
+    "name": "Tyler Martin"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TYLER-JM/bbkey/issues"
+  },
+  "homepage": "https://github.com/TYLER-JM/bbkey#readme"
+}
